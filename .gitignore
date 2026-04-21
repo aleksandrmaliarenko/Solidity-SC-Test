@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+artifacts/
+cache/
+typechain-types/
+dist/
+
+# Environment
+.env
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
