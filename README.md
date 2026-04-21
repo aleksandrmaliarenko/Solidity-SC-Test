@@ -1,4 +1,4 @@
-# Test GM Bridge - Implementation Engineer Interview
+# Test GM Bridge - Smart Contract Engineer Interview
 
 Welcome to the Smart Contracts Engineer technical interview!
 
